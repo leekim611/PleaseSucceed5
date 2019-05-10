@@ -17,7 +17,7 @@ public class HGUCoursePatternAnalyzer {
 						"2018-2, SJ Kim, Programming Language Theory",
 						"2019-1, SJ Kim, Logic Design",
 						"2019-1, SJ Kim, Algorithm Analysis",
-						};
+						}; 
 
 	int numOfStudents;
 	int numOfCourses;
